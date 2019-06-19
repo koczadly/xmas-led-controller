@@ -3,7 +3,11 @@
 ## Introduction
 This repository contains files from a personal project. The aim was to create a small microcontroller-driven LED module to replace a broken incandescent bulb from a fibre optic Christmas tree. This is my first project involving PIC microcontrollers, and the second PCB I've designed; mistakes and uncommon design techniques are to be expected.
 
-I highly doubt this repository will, as it is, be of use to anyone — but feel free to use or modify whatever you'd like. 
+Feel free to re-use or modify this project to fit your needs, or use as a reference for PCB design or PIC software development.
+
+## Outcome
+![Final PCB setup](demo/pcb-final.jpg)
+![Tree running program 1's animation](demo/prog1-demo.gif)
 
 ## Components
 The following is a summary of the components used:
