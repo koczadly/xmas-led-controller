@@ -7,8 +7,8 @@ Feel free to re-use or modify this project to fit your needs, or use as a refere
 
 ## Outcome
 
-<img src="demo/pcb-final.jpg" alt="Final PCB setup" width="750"/>
-<img src="demo/prog1-demo.gif" alt="Tree running program 1's animation" width="350"/>
+<img src="demo/pcb-final.jpg" alt="Final PCB setup" width="600"/>
+<img src="demo/prog1-demo.gif" alt="Tree running program 1's animation" width="300"/>
 
 ## Components
 The following is a summary of the components used:
