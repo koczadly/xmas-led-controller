@@ -6,8 +6,9 @@ This repository contains files from a personal project. The aim was to create a 
 Feel free to re-use or modify this project to fit your needs, or use as a reference for PCB design or PIC software development.
 
 ## Outcome
-![Final PCB setup](demo/pcb-final.jpg)
-![Tree running program 1's animation](demo/prog1-demo.gif)
+
+<img src="demo/pcb-final.jpg" alt="Final PCB setup" width="200"/>
+<img src="demo/prog1-demo.gif" alt="Tree running program 1's animation" width="200"/>
 
 ## Components
 The following is a summary of the components used:
