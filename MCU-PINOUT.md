@@ -2,6 +2,7 @@
 
 This project utilises a PIC12f683 microcontroller to control the animations and LEDs.
 The pinout is as follows (following pin numbers specified in the datasheet):
+
 Pin # | Name | Configuration | Function
 --- | --- | --- | ---
 1 | VDD | POWER | +5V power source
