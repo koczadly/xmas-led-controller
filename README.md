@@ -30,9 +30,9 @@ N/A | 62R Resistor | 1 | £0.01 | Driving white LED
 
 ---
 
-**Total component cost: £1.31**
-**PCB panel cost (DIY): £0.36**
-**Total cost: £1.67** *(Not including etchant, solder or original tree product)*
+**Total component cost: £1.31**  
+**PCB panel cost (DIY): £0.36**  
+**Total cost: £1.67** *(Not including etchant, solder or original tree product)*  
 
 ---
 
