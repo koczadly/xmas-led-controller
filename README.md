@@ -18,15 +18,15 @@ MPN | Type | Quantity | Unit cost (GBP) | Purpose
 N/A | 3mm Blue LED | 8 | £0.01 | Outer LED ring
 N/A | 5mm Green LED | 3 | £0.01 | Inner LEDs (PWM-driven)
 N/A | 5mm White LED | 1 | £0.01 | Inner strobing LED
-[**2N3904**](https://www.onsemi.com/pub/Collateral/2N3903-D.PDF) | NPN Transistor | 10 | £0.01 | Drives each individual controllable LED group (8x Blue, 1x Green, 1x White)
+[**2N3904**](https://www.onsemi.com/pub/Collateral/2N3903-D.PDF) (TO-92) | NPN Transistor | 10 | £0.01 | Drives each individual controllable LED group (8x Blue, 1x Green, 1x White)
 [N/A](https://www.ebay.co.uk/itm/AC-1-5A-250V-3A-125V-Red-Square-Momentary-SPST-Push-Button-Switch-6-Pcs/183740567110) | SPST Momentary Switch | 1 | £0.30 | User input for changing displayed animation/colour
-N/A | 1000μF Electrolytic Capacitor | 1 | £0.10 | Supply voltage smoothing
-N/A | 100nF Ceramic Capacitor | 1 | £0.01 | Decoupling capacitor for MCU
-N/A | 10k Resistor | 1 | £0.01 | Input switch pull-down resistor
-N/A | 1k Resistor | 10 | £0.01 | Transistor base current limiters
-N/A | 150R Resistor | 8 | £0.01 | Driving blue LEDs
-N/A | 120R Resistor | 3 | £0.01 | Driving green LEDs
-N/A | 62R Resistor | 1 | £0.01 | Driving white LED
+N/A | 1000μF (25V) Electrolytic Capacitor | 1 | £0.10 | Supply voltage smoothing
+N/A | 100nF (50V) Ceramic Capacitor | 1 | £0.01 | Decoupling capacitor for MCU
+N/A | 10k Resistor (1/4W) | 1 | £0.01 | Input switch pull-down resistor
+N/A | 1k Resistor (1/4W) | 10 | £0.01 | Transistor base current limiters
+N/A | 150R Resistor (1/4W) | 8 | £0.01 | Driving blue LEDs
+N/A | 120R Resistor (1/4W) | 3 | £0.01 | Driving green LEDs
+N/A | 62R Resistor (1/4W) | 1 | £0.01 | Driving white LED
 
 ---
 
