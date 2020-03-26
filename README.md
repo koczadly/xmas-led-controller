@@ -7,6 +7,7 @@ Feel free to re-use or modify this project to fit your needs, or use as a refere
 
 ## Finished product
 A range of final images can be found under the [/demo/ folder](/demo).
+
 <img src="demo/pcb-final.jpg" alt="Finished PCB" width="450"/>
 <img src="demo/prog1-demo.gif" alt="Tree running program 1's animation" width="300"/>
 
