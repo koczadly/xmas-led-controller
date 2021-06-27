@@ -11,7 +11,7 @@ A range of final images can be found under the [/demo/ folder](/demo).
 <img src="demo/pcb-final.jpg" alt="Finished PCB" width="450"/>
 <img src="demo/prog1-demo.gif" alt="Tree running program 1's animation" width="300"/>
 
-## Bill of materials (BOM)
+## Bill of materials
 MPN | Type | Quantity | Unit cost (GBP) | Purpose
 --- | --- | --- | --- | ---
 [**PIC12F683**](https://www.microchip.com/wwwproducts/en/PIC12F683) (DIP) | Microcontroller | 1 | £0.45 | Controls visual animations and user input
