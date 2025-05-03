@@ -1,15 +1,21 @@
 # Alrite?
 
 ## Introduction
-This repository contains files from a personal project. The aim was to create a small microcontroller-driven LED module to replace a broken incandescent bulb from a fibre optic Christmas tree. This is my first project involving PIC microcontrollers, and the second PCB I've designed; mistakes and uncommon design techniques are to be expected.
+This repository contains files from a personal project. The aim was to create a small microcontroller-driven LED module to replace a broken incandescent-based fibre optic Christmas tree. This is my first project involving PIC microcontrollers, and the second PCB I've designed; mistakes and questionable design techniques are to be expected.
+
+
+### Files
+- PCB files are in [`hardware`](/hardware/) (KiCad project)
+- Software code is in [`firmware`](/firmware/) (MPLAB X project)
 
 Feel free to re-use or modify this project to fit your needs, or use as a reference for PCB design or PIC software development.
 
-## Finished product
-A range of final images can be found under the [/demo/ folder](/demo).
 
-<img src="demo/pcb-final.jpg" alt="Finished PCB" width="450"/>
-<img src="demo/prog1-demo.gif" alt="Tree running program 1's animation" width="300"/>
+## Finished product
+A range of final images can be found in the [`media` folder](/media/).
+
+<img src="media/videos/prog1-demo.avif" alt="Tree running program 1's animation" width="300"/>
+<img src="media/photos/pcb-final.png" alt="Finished PCB" width="400"/>
 
 ## Bill of materials
 MPN | Type | Quantity | Unit cost (GBP) | Purpose
@@ -29,7 +35,7 @@ N/A | 150R Resistor (1/4W) | 8 | £0.001 | Current limiter for blue LEDs
 N/A | 120R Resistor (1/4W) | 3 | £0.001 | Current limiter for green LEDs
 N/A | 62R Resistor (1/4W) | 1 | £0.001 | Current limiter for white LED
 
----
+<br>
 
 **Total component cost: £1.15**  
 **PCB panel cost (DIY): £0.35**  
